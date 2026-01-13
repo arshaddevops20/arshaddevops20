@@ -1,6 +1,6 @@
 # Mohd Arshad | DevOps Engineer | Cloud & Automation Enthusiast
 
-Welcome to my GitHub! I am a DevOps Engineer passionate about automation, cloud computing, and Infrastructure as Code (IaC). I focus on building scalable, secure, and efficient cloud-native solutions using modern DevOps practices.
+Welcome to my GitHub! I'm a **DevOps Engineer** passionate about **automation, cloud computing, and infrastructure as code (IaC)**. With **3+ years of experience**, I specialize in **Azure, Terraform, CI/CD, Kubernetes, and security best practices** to build scalable and efficient cloud solutions. 
 
 ---
 
