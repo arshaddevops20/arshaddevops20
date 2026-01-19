@@ -56,4 +56,4 @@ My key focus areas are **efficiency, security, reliability, and scalability** in
 
 🚀 *Let’s build scalable, automated, and efficient cloud solutions together.*
 
-[![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=for-the-badge&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
