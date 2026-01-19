@@ -1,10 +1,10 @@
 # Mohd Arshad | DevOps Engineer | Cloud & Automation Enthusiast
 
 Welcome to my GitHub! I'm a **DevOps Engineer** passionate about **automation, cloud computing, and infrastructure as code (IaC)**. With **4+ years of experience**, I specialize in **Azure, Terraform, CI/CD, Kubernetes, and security best practices** to build scalable and efficient cloud solutions. 
-
+[![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 ---
 
-## ⭐ About Me - [![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
+## ⭐ About Me 
 
 I help organizations streamline their DevOps transformation by designing and implementing:
 - CI/CD pipelines
