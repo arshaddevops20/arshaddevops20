@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **DevOps Engineer** passionate about **automation, c
 
 ---
 
-## ⭐ About Me
+## ⭐ About Me - [![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 
 I help organizations streamline their DevOps transformation by designing and implementing:
 - CI/CD pipelines
@@ -50,9 +50,8 @@ My key focus areas are **efficiency, security, reliability, and scalability** in
 ## 📧 Get in Touch
 
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/arshad-devops/  
-- 📩 **Email**: arshaddevops20@gmail.com  
-
-[![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
+- 📩 **Email**: arshaddevops20@gmail.com
+  
 ---
 
 🚀 *Let’s build scalable, automated, and efficient cloud solutions together.*
