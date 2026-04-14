@@ -2,7 +2,9 @@
 
 ## Welcome to my GitHub!
 
-I'm a **DevOps Engineer** passionate about **automation, cloud computing, and infrastructure as code (IaC)**. With **5+ years of experience**, I specialize in **Azure, Terraform, CI/CD, Kubernetes, and security best practices** to build scalable and efficient cloud solutions. 
+I'm a DevOps Engineer with **10+ years of experience in IT**, including **5+ years specializing in DevOps**, focused on delivering **scalable, secure, and high-performance cloud solutions**.
+
+I have hands-on expertise in **Azure, Terraform, CI/CD pipelines, and Kubernetes**, enabling organizations to **automate infrastructure, streamline deployments, and improve system reliability**.
 
 ---
 
